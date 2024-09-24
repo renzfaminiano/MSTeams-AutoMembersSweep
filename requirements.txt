@@ -1,0 +1,10 @@
+# requirements.txt
+
+#PyAutoGUI version 0.9.54
+pyautogui==0.9.54
+
+#Keyboard version 0.13.5
+keyboard==0.13.5
+
+#Pandas version 2.2.2
+pandas==2.2.2
